@@ -1,0 +1,10 @@
+{
+  "name": "contentful-content-model-example",
+  "version": "1.0.0",
+  "description": "A collection of migration scripts presented in https://www.tastyvar.com/gatsby-contentful-content-modeling/",
+  "main": "index.js",
+  "repository": "https://github.com/jonaskay/contentful-content-model-example",
+  "author": "Joonas Kykkänen <jonaskay@iki.fi>",
+  "license": "MIT",
+  "private": true
+}
